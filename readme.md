@@ -4,4 +4,4 @@
 
 **Análise amadora!**
 
-Veja: https://github.com/theuves/jupyter-term.ooo/blob/master/analises-do-jogo-termo.ipynb
+Veja: https://github.com/theuves/jupyter-termo/blob/master/termo.ipynb
